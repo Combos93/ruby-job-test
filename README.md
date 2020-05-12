@@ -18,8 +18,8 @@
 
 ## Пример выполнения
 ```sh
-# bundle install
-# ruby run.rb
+$ bundle install
+$ ruby run.rb
 
 Average Scores:
 math: 4.2, russian: 3.8, phys: 3.2
